@@ -19,6 +19,7 @@
             redirectPath: '/mobile'
         },
         _opt = _default,
+        _version = '0.0.1',
         hasModule = (typeof module !== 'undefined' && module.exports);
 
     mdirect = function(opt) {
@@ -37,7 +38,7 @@
             }
         }
     };
-
+    mdirect.version = _version;
     /************************************
       Exposing mdirect
   ************************************/
