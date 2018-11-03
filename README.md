@@ -8,7 +8,7 @@ mobile-redirect will detect if the request is a mobile device. If so, it will re
 [![Build Status](https://travis-ci.org/iwatakeshi/mobile-redirect.svg?branch=master)](https://travis-ci.org/iwatakeshi/mobile-redirect)
 [![npm version](https://badge.fury.io/js/mobile-redirect.svg)](http://badge.fury.io/js/mobile-redirect)
 
-[![NPM](https://nodei.co/npm/mobile-redirect.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/mobile-redirect/)
+[![NPM](https://nodei.co/npm/mobile-redirect.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/mobile-redirect/) [![Greenkeeper badge](https://badges.greenkeeper.io/iwatakeshi/mobile-redirect.svg)](https://greenkeeper.io/)
 
 ##Install
 
